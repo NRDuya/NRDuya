@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NRDuya
-- https://www.linkedin.com/in/nathaniel-ray-duya/
 - My name is Nathaniel Duya and I’m currently a senior studying Computer Science at San Francisco State University.
 I'm currently working on https://github.com/NRDuya/BudGet
 
